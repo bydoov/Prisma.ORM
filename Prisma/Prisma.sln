@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prisma", "Prisma\Prisma.csproj", "{4317BFB3-A55E-4985-86AE-1186A44DB702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prisma.ORM", "Prisma.ORM\Prisma.ORM.csproj", "{3779A4B8-16B1-475A-9BAE-E7D5682972A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4317BFB3-A55E-4985-86AE-1186A44DB702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4317BFB3-A55E-4985-86AE-1186A44DB702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4317BFB3-A55E-4985-86AE-1186A44DB702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4317BFB3-A55E-4985-86AE-1186A44DB702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3779A4B8-16B1-475A-9BAE-E7D5682972A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3779A4B8-16B1-475A-9BAE-E7D5682972A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3779A4B8-16B1-475A-9BAE-E7D5682972A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3779A4B8-16B1-475A-9BAE-E7D5682972A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C637D9-0942-458B-8B71-31B47F0370F5}
+	EndGlobalSection
+EndGlobal
